@@ -1,5 +1,3 @@
-The Role of AI in Small Business Marketing Campaigns and Success
-=========================================================================================
 
 In this chapter, we will explore the role of AI in small business marketing campaigns and success.
 

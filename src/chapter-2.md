@@ -1,5 +1,3 @@
-Chapter 2: Getting Started with AI-Enabled Campaign Optimization
-================================================================
 
 In this chapter, we will explore how to get started with AI-enabled campaign optimization by setting marketing goals and objectives, assessing marketing needs and resources, and creating a customized campaign optimization plan for AI implementation and execution.
 

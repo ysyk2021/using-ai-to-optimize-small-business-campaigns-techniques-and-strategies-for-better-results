@@ -1,5 +1,3 @@
-Tools and Software for AI-Enabled Campaign Management and Performance Tracking
-================================================================================================================================================
 
 There are a variety of AI tools and software available to optimize small business campaigns. In this chapter, we will explore some of the most common AI technologies used for campaign optimization, including tools for campaign management and performance tracking.
 

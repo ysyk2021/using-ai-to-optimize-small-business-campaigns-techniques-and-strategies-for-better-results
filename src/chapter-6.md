@@ -1,5 +1,3 @@
-Chapter 6: Evaluating the Impact of AI on Campaign Performance and ROI
-======================================================================
 
 In this chapter, we will explore how to evaluate the impact of AI on campaign performance and ROI.
 

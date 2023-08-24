@@ -1,5 +1,3 @@
-Boosting Your Conversion Rates and Sales with AI-Enabled Retargeting and Dynamic Pricing
-=============================================================================================================================================================
 
 In this chapter, we will explore how AI can be used to optimize your small business campaigns by boosting conversion rates and sales through AI-enabled retargeting and dynamic pricing techniques.
 

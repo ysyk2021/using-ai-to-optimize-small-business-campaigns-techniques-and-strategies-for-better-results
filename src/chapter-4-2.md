@@ -1,5 +1,3 @@
-Enhancing Your Content Strategy and Messaging with AI-Enabled Optimization and Testing
-===========================================================================================================================================================
 
 In this chapter, we will explore how AI can be used to enhance your small business campaigns' content strategy and messaging through AI-enabled optimization and testing techniques.
 

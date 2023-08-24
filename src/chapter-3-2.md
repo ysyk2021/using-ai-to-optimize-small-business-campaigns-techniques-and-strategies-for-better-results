@@ -1,5 +1,3 @@
-Different Types of AI Techniques and Platforms for Marketing Optimization and Analysis
-========================================================================================================================================================
 
 AI technology can be used to optimize small business campaigns in a variety of ways. In this chapter, we will explore different types of AI techniques and platforms for marketing optimization and analysis.
 

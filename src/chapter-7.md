@@ -1,5 +1,3 @@
-Chapter 7: The Future of AI in Small Business Marketing
-=======================================================
 
 Emerging Trends and Opportunities in AI for Small Business Marketing and Growth
 -------------------------------------------------------------------------------

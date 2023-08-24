@@ -1,5 +1,3 @@
-Basic Principles and Processes of AI Algorithms and Machine Learning Models for Marketing
-===========================================================================================================================================================
 
 AI algorithms and machine learning models are the backbone of many AI technologies used for campaign optimization in small businesses. In this chapter, we will explore the basic principles and processes of these algorithms and models as they apply to marketing.
 

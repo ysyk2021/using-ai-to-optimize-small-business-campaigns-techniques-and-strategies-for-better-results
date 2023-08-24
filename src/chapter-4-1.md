@@ -1,5 +1,3 @@
-Improving Your Target Audience Segmentation and Personalization with AI-Enabled Predictive Analytics
-=========================================================================================================================================================================
 
 In this chapter, we will explore how AI can be used to improve target audience segmentation and personalization through AI-enabled predictive analytics.
 

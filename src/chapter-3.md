@@ -1,5 +1,3 @@
-Chapter 3: Understanding AI Technology for Campaign Optimization
-================================================================
 
 In this chapter, we will explore the basic principles and processes of AI algorithms and machine learning models for marketing. Additionally, we will discuss different types of AI techniques and platforms for marketing optimization and analysis, as well as tools and software for AI-enabled campaign management and performance tracking.
 

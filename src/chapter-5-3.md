@@ -1,5 +1,3 @@
-Applying AI Insights and Analytics for Business Strategy and Innovation
-====================================================================================================================================================
 
 In this chapter, we will explore how to apply AI insights and analytics for business strategy and innovation in order to optimize small business marketing campaigns for sustainable growth.
 

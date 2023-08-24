@@ -1,5 +1,3 @@
-Setting Your Marketing Goals and Objectives for AI Use and Business Growth
-============================================================================================================================================
 
 In this chapter, we will explore how to get started with AI-enabled campaign optimization by setting marketing goals and objectives for AI use and business growth.
 
