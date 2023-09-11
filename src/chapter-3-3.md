@@ -1,5 +1,4 @@
-Chapter 8: Tools and Software for AI-Enabled Campaign Management and Performance Tracking
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a variety of tools and software solutions that small businesses can utilize to effectively manage their marketing campaigns and track performance with the power of AI. These tools and technologies are instrumental in optimizing campaigns and achieving better results.
 

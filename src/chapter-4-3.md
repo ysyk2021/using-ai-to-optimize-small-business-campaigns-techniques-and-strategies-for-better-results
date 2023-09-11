@@ -1,5 +1,4 @@
-Chapter 5: Boosting Your Conversion Rates and Sales with AI-Enabled Retargeting and Dynamic Pricing
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how small businesses can leverage AI-powered retargeting and dynamic pricing strategies to enhance conversion rates and drive increased sales.
 

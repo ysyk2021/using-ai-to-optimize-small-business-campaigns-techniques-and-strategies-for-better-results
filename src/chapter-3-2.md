@@ -1,5 +1,4 @@
-Chapter 9: Different Types of AI Techniques and Platforms for Marketing Optimization and Analysis
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a wide range of AI techniques and platforms that small businesses can leverage to optimize their marketing efforts and analyze performance. Understanding the diversity of AI tools available is crucial for achieving better results in your marketing campaigns.
 

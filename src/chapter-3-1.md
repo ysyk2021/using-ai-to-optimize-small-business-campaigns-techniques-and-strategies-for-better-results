@@ -1,5 +1,4 @@
-Chapter 6: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Marketing
-====================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental principles and processes of AI algorithms and machine learning models as applied to marketing for small businesses. Understanding the basics of AI and machine learning is essential for leveraging these technologies to optimize your campaigns and achieve better results.
 

@@ -1,5 +1,4 @@
-Chapter 4: Identifying Key Performance Metrics and Goals for AI-Enabled Campaign Improvement and Optimization
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the critical task of identifying key performance metrics and setting clear goals when harnessing AI for campaign improvement and optimization in small businesses.
 

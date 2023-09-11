@@ -1,5 +1,4 @@
-Chapter 6: Challenges and Risks of AI Adoption in Small Business Marketing and How to Overcome Them
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the challenges and risks associated with adopting AI in small business marketing and provide strategies and insights on how to mitigate them effectively.
 

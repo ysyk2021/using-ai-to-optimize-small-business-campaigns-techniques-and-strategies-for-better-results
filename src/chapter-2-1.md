@@ -1,5 +1,4 @@
-Chapter 3: Setting Your Marketing Goals and Objectives for AI Use and Business Growth
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical process of setting marketing goals and objectives that align with AI utilization and foster business growth for small enterprises.
 

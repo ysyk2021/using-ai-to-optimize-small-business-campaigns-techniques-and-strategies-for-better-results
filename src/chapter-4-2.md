@@ -1,5 +1,4 @@
-Chapter 6: Enhancing Your Content Strategy and Messaging with AI-Enabled Optimization and Testing
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore how small businesses can leverage AI-powered optimization and testing to enhance their content strategy and messaging, resulting in more effective communication and better campaign results.
 
